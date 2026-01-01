@@ -41,16 +41,18 @@ Firefox HTTP proxy configuration:
 
 ![Firefox Network Config](screenshots/firefox_network_config.png)
 
+---
+
 Example page loaded through the proxy:
 
 ![Example Page](screenshots/example.png)
 
+---
+
 HTTP request logged by the proxy:
 
 ![Request Log](screenshots/req.png)
+---
 
 
-
-
-gcc src/*.c -o proxy
 
