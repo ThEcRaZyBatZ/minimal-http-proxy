@@ -49,10 +49,5 @@ Example page loaded through the proxy:
 
 ---
 
-HTTP request logged by the proxy:
-
-![Request Log](screenshots/req.png)
----
-
 
 
